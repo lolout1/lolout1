@@ -18,10 +18,6 @@ I am a driven and well-rounded senior at Texas State University. I have a knack 
 - Learning C++ 17/20
 - Learning distributed systems and building more impactful projects
 
-## 🌱 When I'm Not Coding
-
-When I am tired of programming, I enjoy traveling, reading, exercising, gardening, and various outdoor board sports.
-
 ---
 
 📫 Feel free to reach out!
