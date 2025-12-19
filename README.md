@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I am a driven and well-rounded senior at Texas State University. I have a knack for optimization and enjoy tackling challenging problems across various disciplines in C, C++, Java and Python.
+I am a driven and well-rounded senior at Texas State University with a strong knack for optimization and a passion for tackling challenging problems across diverse disciplines. My strongest languages are C, C++, Java, and Python, and I am interested in any challenging, high-impact opportunities.
 
 ## 🔧 Current interests and past experience
 
@@ -17,7 +17,9 @@ I am a driven and well-rounded senior at Texas State University. I have a knack 
 - Getting better at programming
 - Learning C++ 17/20
 - Learning distributed systems and building more impactful projects
-
+- CUDA and paralleization
+- Real time high performance systems
+- Rust ( haven't started yet :/ ) 
 ---
 
 📫 Feel free to reach out and visit my website at https://abheekp.dev/. 
