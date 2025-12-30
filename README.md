@@ -1,5 +1,7 @@
 # Hello! 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabheekp&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 I am a driven and well-rounded senior at Texas State University with a strong knack for optimization and a passion for tackling challenging problems across diverse disciplines. My strongest languages are C, C++, Java, and Python, and I am interested in any challenging, high-impact opportunities.
 
 ## 🔧 Current interests and past experience
@@ -20,6 +22,7 @@ I am a driven and well-rounded senior at Texas State University with a strong kn
 - CUDA and paralleization
 - Real time high performance systems
 - Rust ( haven't started yet :/ ) 
+
 ---
 
-📫 Feel free to reach out and visit my website at https://abheekp.dev/. 
+📫 Feel free to reach out and visit my website at https://abheekp.dev/.
