@@ -1,6 +1,6 @@
 # Hello! 👋
 
-[![Profile visits ( since 12/30/2025 ) ](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flolout1&title=profile%20views)](https://hits.seeyoufarm.com)
+[![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flolout1&title=profile%20views&v=1)](https://hits.seeyoufarm.com)
 
 
 
