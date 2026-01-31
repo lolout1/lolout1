@@ -20,6 +20,7 @@ I am a driven and well-rounded senior at Texas State University with a strong kn
 
 - Multi-modal transformers on edge devices for ML research group
 - Getting better at programming
+- Generating time series data via diffusion models. 
 - Learning C++ 17/20
 - Learning distributed systems and building more impactful projects
 - CUDA and paralleization
