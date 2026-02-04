@@ -15,11 +15,13 @@ I am a driven and well-rounded senior at Texas State University with a strong kn
 - **Full Stack Development**: Various full stack React, JavaScript, and Java projects
 - **Edge Computing**: Quantizing machine learning models to run on edge/embedded devices using C++
 - **Data Engineering**: Database and web scraping/querying
+- **AI Agentic Applications**: Multiple agentic full stack applications for a variety of use cases using Python, React/Angular, Pytorch, Langchain, Vector Dabases, Vector Embeddings, etc. 
 
 ## 🚀 Currently Working On
 
 - Multi-modal transformers on edge devices for ML research group
 - Getting better at programming
+- AI agents for evaluating real-time performance issues for pervasive computing for server-cloud based and offline-edge based applications. 
 - Generating time series data via diffusion models. 
 - Learning C++ 17/20
 - Learning distributed systems and building more impactful projects
