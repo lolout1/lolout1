@@ -10,13 +10,14 @@ I am a disciplined and high agency engineer who enjoys working on challenging pr
 ## 🔧 Current interests and past experience
 
 - **Multi-modal Transformers**: Training multi-modal transformers (PyTorch and TensorFlow Keras) and distilling them to run on Android phones and wearables (Java, Kotlin)
+- - **Computer Vision**: Various computer vision based applications
 - **RTOS Development**: Writing RTOS firmware/software
 - **ML Model Deployment**: Fine-tuned various models and hosted them using full stack and machine learning frameworks (Docker, Python, AWS, Huggingface, FastAPI, PyTorch)
 - **Full Stack Development**: Various full stack React, JavaScript, and Java projects
 - **Edge Computing**: Quantizing machine learning models to run on edge/embedded devices using C++
 - **Data Engineering**: Database and web scraping/querying
 - **AI Agentic Applications**: Multiple agentic full stack applications for a variety of use cases using Python, React/Angular, Pytorch, Langchain, Vector Dabases, Vector Embeddings, etc. 
-
+- 
 ## 🚀 Currently Working On
 
 - Multi-modal transformers on edge devices for ML research group
