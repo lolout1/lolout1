@@ -27,7 +27,7 @@ I am a disciplined and high agency engineer who enjoys working on challenging pr
 - Learning distributed systems and building more impactful projects
 - CUDA and paralleization
 - Real time high performance systems
-- Rust ( haven't started yet :/ ) 
+- Rust  
 
 ---
 
