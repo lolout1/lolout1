@@ -5,7 +5,7 @@
 
 
 
-I am a driven and well-rounded senior at Texas State University with a strong knack for optimization and a passion for tackling challenging problems across diverse disciplines. My strongest languages are C, C++, Java, and Python, and I am interested in any challenging, high-impact opportunities.
+I am a disciplined and high agency engineer who enjoys working on challenging projects. My experience is extensive in breadth and depth ; right now I’m focused on publishing AI/ML + edge computing research and shipping side projects before graduating in Spring 2026
 
 ## 🔧 Current interests and past experience
 
