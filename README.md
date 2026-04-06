@@ -5,7 +5,7 @@
 
 
 
-I am a disciplined and high agency engineer who enjoys working on challenging projects. My experience is extensive in breadth and depth ; right now I’m focused on publishing AI/ML + edge computing research and shipping side projects before graduating in Spring 2026
+I am a disciplined and high agency engineer who enjoys working on challenging projects. My experience is extensive in breadth and depth ; right now I’m focused on publishing AI/ML + edge computing research and shipping side projects before graduating .
 
 ## 🔧 Current interests and past experience
 
